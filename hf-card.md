@@ -1,44 +1,68 @@
 ---
 license: other
+pretty_name: QT Funded Discount Code
 configs:
 - config_name: qt-funded-deals
   data_files:
   - split: data
     path: datasets/qt-funded-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - qt-funded
 ---
 
-# QT Funded - Discount Codes & Deal History
+# QT Funded Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-26, QT Funded deals run up to 50% OFF with code PFD, which works any time — the newest is **50% Off Halloween Entry With Second Account Free**.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/qt-funded/
+> At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
+> We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
+> At QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.
+>
+> — QT Funded, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/quanttekel.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-26
+- Trustpilot: 3.5/5 (13369 reviews)
+- Activate: https://propfirmdiscount.com/go/qtfunded
+- Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **50% off** on QT Funded challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all QT Funded evaluation accounts.
+## Current QT Funded deal: 50% Off Halloween Entry With Second Account Free
+
+- Published: 2026-10-26
+- Offer ends: 2026-11-01 00:00
+- Offer: 50% off
+- Scope: Challenge Purchases, Second Account Same Size
+- Code: PFD
+- Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/
+
+## QT Funded discount code FAQ
+
+**What is the QT Funded discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 50% off QT Funded challenges and accounts.
+
+**Does the QT Funded discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current QT Funded deal?**
+
+**50% Off Halloween Entry With Second Account Free** — published 2026-10-26. Offer ends: 2026-11-01 00:00. The offer is 50% off.
 
 ---
 
-## Latest Deal
-
-### QT Funded - 50% Off Halloween Entry With Second Account Free
-
-**Published:** 2026-10-26  
-**Offer ends:** 2026-11-01 00:00  
-**Discount:** 50% off  
-**Scope:** Challenge Purchases, Second Account Same Size  
-**Code:** PFD  
-
-**Deal page:** https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **60**
 
@@ -114,19 +138,20 @@ Total deals tracked: **60**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **QT Funded** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **QT Funded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/qt-funded/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/qt-funded/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
