@@ -9,7 +9,7 @@ As of 2026-10-26, QT Funded deals run up to 50% OFF with code PFD, which works a
 > — QT Funded, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/quanttekel.com)
 
 - Code: PFD
-- Discount: Up to 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-26
 - Trustpilot: 3.5/5 (13369 reviews)
