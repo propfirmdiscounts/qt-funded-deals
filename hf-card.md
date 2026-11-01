@@ -19,16 +19,10 @@ tags:
 
 # QT Funded Discount Code
 
-As of 2026-10-26, QT Funded deals run up to 50% OFF with code PFD, which works any time — the newest is 50% Off Halloween Entry With Second Account Free.
-
-> At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
-> We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
-> At QT Funded, our mission is to ensure a seamless trading experience. We equip our traders with the best tools and dedicated support at every step of their journey, from initial evaluation to ongoing trading. Join our community and take your trading to the next level with Quant Tekel, your trusted partner in achieving financial success. Whether you're aiming to start your trading career or elevate your existing skills, we are here to guide you towards realizing your trading potential.
->
-> — QT Funded, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/quanttekel.com)
+As of 2026-10-26, QT Funded deals run up to 60% OFF with code PFD, which works any time — the newest is 50% Off Halloween Entry With Second Account Free.
 
 - Code: PFD
-- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
+- Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-26
 - Trustpilot: 3.5/5 (13369 reviews)
@@ -40,7 +34,7 @@ As of 2026-10-26, QT Funded deals run up to 50% OFF with code PFD, which works a
 ## Current QT Funded deal: 50% Off Halloween Entry With Second Account Free
 
 - Published: 2026-10-26
-- Offer ends: 2026-11-01 00:00
+- Offer ends: 2026-11-01 00:00 (ended)
 - Offer: 50% off
 - Event: Halloween
 - Scope: Challenge Purchases, Second Account Same Size
@@ -51,7 +45,7 @@ As of 2026-10-26, QT Funded deals run up to 50% OFF with code PFD, which works a
 
 **What is the QT Funded discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 50% off QT Funded challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 60% off QT Funded challenges and accounts.
 
 **Does the QT Funded discount code expire?**
 
@@ -59,7 +53,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current QT Funded deal?**
 
-**50% Off Halloween Entry With Second Account Free** — published 2026-10-26. Offer ends: 2026-11-01 00:00. The offer is 50% off.
+**50% Off Halloween Entry With Second Account Free** — published 2026-10-26. Offer ends: 2026-11-01 00:00 (ended). The offer is 50% off.
 
 ---
 
@@ -71,11 +65,11 @@ Total deals tracked: **60**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-26 | 50% Off Halloween Entry With Second Account Free | 50% off | 2026-11-01 00:00 | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) |
-| 2026-10-26 | 60% Off Halloween Challenge Entry With Payout Boost | 60% off | 2026-11-01 00:00 | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) |
+| 2026-10-26 | 50% Off Halloween Entry With Second Account Free | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) |
+| 2026-10-26 | 60% Off Halloween Challenge Entry With Payout Boost | 60% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) |
 | 2026-10-21 | 55% Off All Accounts With Second Account Free | 55% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) |
 | 2026-10-20 | 65% Off All Accounts With Fee Refund Offer | 65% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) |
-| 2026-10-19 | 60% Off QT TWO Evaluations With Free Account | 60% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/) |
+| 2026-10-19 | 60% Off QT TWO Evaluations With Free Account | 60% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/) |
 | 2026-10-01 | October Sale: 60% Off Upfront Entry Costs and Second Evaluation Included | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) |
 | 2026-09-09 | 60% Off Challenge Pricing and Second Evaluation Entitlement | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-2/) |
 | 2026-09-07 | 55% Off Evaluation Price With Additional Account at No Extra Cost | 55% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/) |
