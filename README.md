@@ -1,12 +1,12 @@
 # QT Funded Discount Code
 
-As of 2026-10-26, QT Funded deals run up to 60% OFF with code PFD, which works any time — the newest is 50% Off Halloween Entry With Second Account Free.
+As of 2026-10-26, QT Funded deals run up to 50% OFF with code PFD, which works any time — the newest is 50% Off Halloween Entry With Second Account Free.
 
 - Code: PFD
-- Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
+- Discount: Up to 50% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-26
-- Trustpilot: 3.5/5 (13369 reviews)
+- Trustpilot: 3.5/5 (13375 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
@@ -26,7 +26,7 @@ As of 2026-10-26, QT Funded deals run up to 60% OFF with code PFD, which works a
 
 **What is the QT Funded discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 60% off QT Funded challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 50% off QT Funded challenges and accounts.
 
 **Does the QT Funded discount code expire?**
 
