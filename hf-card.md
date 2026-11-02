@@ -70,7 +70,7 @@ Total deals tracked: **60**
 | 2026-10-21 | 55% Off All Accounts With Second Account Free | 55% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) |
 | 2026-10-20 | 65% Off All Accounts With Fee Refund Offer | 65% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) |
 | 2026-10-19 | 60% Off QT TWO Evaluations With Free Account | 60% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/) |
-| 2026-10-01 | October Sale: 60% Off Upfront Entry Costs and Second Evaluation Included | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) |
+| 2026-10-01 | October Sale: 60% Off Upfront Entry Costs and Second Evaluation Included | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) |
 | 2026-09-09 | 60% Off Challenge Pricing and Second Evaluation Entitlement | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-2/) |
 | 2026-09-07 | 55% Off Evaluation Price With Additional Account at No Extra Cost | 55% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/) |
 | 2026-09-02 | 50% Off and Bonus Account on $5K to $100K Evaluation Accounts | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-free-account-2/) |
