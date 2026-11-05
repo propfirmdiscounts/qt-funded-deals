@@ -12,7 +12,7 @@ As of 2026-11-04, QT Funded deals run up to 60% OFF with code PFD, which works a
 - Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-04
-- Trustpilot: 3.5/5 (13375 reviews)
+- Trustpilot: 3.5/5 (13383 reviews)
 - Activate: https://propfirmdiscount.com/go/qtfunded
 - Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
