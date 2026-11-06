@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13169,
+    "title": "Diwali 60% Off + Free Account + Payout Extra",
+    "offer_type": "coupon",
+    "discount_value": "60%",
+    "scope": [
+      "Qt Accounts; Free Same-Size Account And Extra 10% On Payout Included"
+    ],
+    "date_published": "2026-11-06",
+    "date_exp": "2026-11-09",
+    "event": "Diwali",
+    "last_verified": "2026-11-06",
+    "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/",
+    "prop_firm": "QT Funded",
+    "prop_firm_slug": "qt-funded",
+    "standing_code": "PFD",
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/qtfunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/qt-funded/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 13145,
     "title": "60% Off All Accounts - Free Same-Size Account",
     "offer_type": "coupon",
