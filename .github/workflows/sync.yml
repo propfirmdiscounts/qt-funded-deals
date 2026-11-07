@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: qt-funded-discount-codes
+  HF_NAMESPACE: qtfunded
+  HF_REPO_NAME: qt-funded-deals
   FIRM_SLUG: qt-funded
   DEALSTORE_ID: 39
   FIRM_NAME: QT Funded
