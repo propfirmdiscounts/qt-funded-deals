@@ -53,7 +53,7 @@ Total deals tracked: **63**
 |---|---|---|---|---|---|
 | 2026-11-07 | 60% Off + Free Same-Size Account | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) |
 | 2026-11-06 | Diwali 60% Off + Free Account + Payout Extra | 60% off | 2026-11-09 | Diwali | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) |
-| 2026-11-04 | 60% Off All Accounts - Free Same-Size Account | 60% off | 2026-11-08 | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/) |
+| 2026-11-04 | 60% Off All Accounts - Free Same-Size Account | 60% off | 2026-11-08 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/) |
 | 2026-10-26 | 50% Off Halloween Entry With Second Account Free | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) |
 | 2026-10-26 | 60% Off Halloween Challenge Entry With Payout Boost | 60% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) |
 | 2026-10-21 | 55% Off All Accounts With Second Account Free | 55% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) |
