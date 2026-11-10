@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13205,
+    "title": "55% Off Challenges + Free Account",
+    "offer_type": "coupon",
+    "discount_value": "55%",
+    "scope": [
+      "All Challenges"
+    ],
+    "date_published": "2026-11-10",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-10",
+    "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/",
+    "prop_firm": "QT Funded",
+    "prop_firm_slug": "qt-funded",
+    "standing_code": "PFD",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/qtfunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/qt-funded/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 13185,
     "title": "60% Off + Free Same-Size Account",
     "offer_type": "coupon",
