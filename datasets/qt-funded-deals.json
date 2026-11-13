@@ -552,7 +552,7 @@
   {
     "deal_id": 11548,
     "title": "50% Reduction and Additional Account at No Extra Cost",
-    "offer_type": "deal",
+    "offer_type": "coupon",
     "discount_value": "50%",
     "scope": [
       "Excludes Qt Ultra, 48-Hour Validity"
