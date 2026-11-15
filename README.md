@@ -12,11 +12,12 @@ As of 2026-11, QT Funded deals run 50% OFF with code PFD, which works any time â
 - Discount: 50% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
 - Valid: standing code â€” no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-10
-- Trustpilot: 3.5/5 (13394 reviews)
-- Activate: https://propfirmdiscount.com/go/qtfunded
-- Firm page: https://propfirmdiscount.com/prop-firm/qt-funded/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3.5/5 (13394 reviews)](https://www.trustpilot.com/review/quanttekel.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/qt-funded-deals](https://github.com/propfirmdiscounts/qt-funded-deals)
+- Activate: [https://propfirmdiscount.com/go/qtfunded](https://propfirmdiscount.com/go/qtfunded)
+- Firm page: [https://propfirmdiscount.com/prop-firm/qt-funded/](https://propfirmdiscount.com/prop-firm/qt-funded/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current QT Funded deal: 55% Off Challenges + Free Account with code PFD
 
@@ -25,7 +26,7 @@ As of 2026-11, QT Funded deals run 50% OFF with code PFD, which works any time â
 - Offer: 55% off
 - Scope: All Challenges
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/
+- Deal page: [https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/)
 
 ## QT Funded discount code FAQ
 
@@ -127,9 +128,9 @@ Total deals tracked: **64**
 
 This repository mirrors every deal **QT Funded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/qt-funded/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/qt-funded/](https://propfirmdiscount.com/prop-firm/qt-funded/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/qt-funded-deals.json`
 
