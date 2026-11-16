@@ -1,5 +1,45 @@
 [
   {
+    "deal_id": 13244,
+    "title": "60% Off Plus a Free Same-Size Account",
+    "offer_type": "coupon",
+    "discount_value": "60%",
+    "scope": [
+      "All Plans"
+    ],
+    "date_published": "2026-11-16",
+    "date_exp": "Limited time",
+    "event": "Black Friday",
+    "last_verified": "2026-11-16",
+    "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/",
+    "prop_firm": "QT Funded",
+    "prop_firm_slug": "qt-funded",
+    "standing_code": "PFDDEAL",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/qtfunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/qt-funded/"
+  },
+  {
+    "deal_id": 13238,
+    "title": "75% Off All Plans for Black Friday",
+    "offer_type": "coupon",
+    "discount_value": "75%",
+    "scope": [
+      "All Plans"
+    ],
+    "date_published": "2026-11-16",
+    "date_exp": "Limited time",
+    "event": "Black Friday",
+    "last_verified": "2026-11-16",
+    "post_url": "https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-75-off-all-plans/",
+    "prop_firm": "QT Funded",
+    "prop_firm_slug": "qt-funded",
+    "standing_code": "PFDDEAL",
+    "standing_discount": "50%",
+    "activation_link": "https://propfirmdiscount.com/go/qtfunded",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/qt-funded/"
+  },
+  {
     "deal_id": 13205,
     "title": "55% Off Challenges + Free Account",
     "offer_type": "coupon",

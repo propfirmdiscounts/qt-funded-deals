@@ -1,6 +1,6 @@
 # QT Funded Discount Code & Deal History
 
-As of November 2026, the verified QT Funded discount code is PFDDEAL — 50% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenges + Free Account".
+As of November 2026, the verified QT Funded discount code is PFDDEAL — 50% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Plus a Free Same-Size Account".
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
 > We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
@@ -19,14 +19,15 @@ As of November 2026, the verified QT Funded discount code is PFDDEAL — 50% OFF
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [QT Funded API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest QT Funded deal: 55% Off Challenges + Free Account
+## Latest QT Funded deal: 60% Off Plus a Free Same-Size Account
 
-- Published: 2026-11-10
+- Published: 2026-11-16
 - Offer ends: Limited time
-- Offer: 55% off
-- Scope: All Challenges
+- Offer: 60% off
+- Event: Black Friday
+- Scope: All Plans
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [QT Funded Deal Page](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/)
+- Deal page: [QT Funded Deal Page](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/)
 
 ## QT Funded Discount Code & Deals FAQ
 
@@ -40,18 +41,20 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current QT Funded deal?**
 
-**55% Off Challenges + Free Account** — published 2026-11-10. Offer ends: Limited time. The offer is 55% off.
+**60% Off Plus a Free Same-Size Account** — published 2026-11-16. Offer ends: Limited time. The offer is 60% off.
 
 ---
 
 ## QT Funded Deal History
 
-Total deals tracked: **64**
+Total deals tracked: **66**
 
-### 2026 (41 deals)
+### 2026 (43 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-16 | QT Funded: 60% Off Plus a Free Same-Size Account | 60% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/) |
+| 2026-11-16 | QT Funded: 75% Off All Plans for Black Friday | 75% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-75-off-all-plans/) |
 | 2026-11-10 | QT Funded: 55% Off Challenges + Free Account | 55% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/) |
 | 2026-11-07 | QT Funded: 60% Off + Free Same-Size Account | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) |
 | 2026-11-06 | QT Funded: Diwali 60% Off + Free Account + Payout Extra | 60% off | 2026-11-09 (ended) | Diwali | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) |
