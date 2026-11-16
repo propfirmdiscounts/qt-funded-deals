@@ -91,9 +91,7 @@ jobs:
 
           if record.get('discount'):
               discount = add_off(record['discount'])
-          if 'use_global_affiliate_code' in record:
-              is_global = str(record['use_global_affiliate_code']) in ['1', 'true', 'True']
-          elif 'is_global' in record:
+          if 'is_global' in record:
               is_global = str(record['is_global']) in ['1', 'true', 'True']
           # add_off() appends " off" for display. The FAQ sentences below already
           # end in "off", so they take the bare rate instead of "50% off off".
