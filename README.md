@@ -1,6 +1,6 @@
 # QT Funded - Discount Codes & Deal History
 
-As of November 2026, QT Funded deals offer 50% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified QT Funded discount code is PFD — 50% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenges + Free Account with code PFD".
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
 > We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
@@ -13,11 +13,11 @@ As of November 2026, QT Funded deals offer 50% OFF with code PFD, which can be a
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-10
 - Trustpilot: [3.5/5 (13394 reviews)](https://www.trustpilot.com/review/quanttekel.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/qt-funded-deals](https://github.com/propfirmdiscounts/qt-funded-deals)
-- Activate: [https://propfirmdiscount.com/go/qtfunded](https://propfirmdiscount.com/go/qtfunded)
-- Firm page: [https://propfirmdiscount.com/prop-firm/qt-funded/](https://propfirmdiscount.com/prop-firm/qt-funded/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [QT Funded Deals Repository](https://github.com/propfirmdiscounts/qt-funded-deals)
+- Activate: [Activate QT Funded Discount Code](https://propfirmdiscount.com/go/qtfunded)
+- Firm page: [QT Funded Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/qt-funded/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [QT Funded API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current QT Funded deal: 55% Off Challenges + Free Account with code PFD
 
@@ -26,7 +26,7 @@ As of November 2026, QT Funded deals offer 50% OFF with code PFD, which can be a
 - Offer: 55% off
 - Scope: All Challenges
 - Code: PFD
-- Deal page: [https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/)
+- Deal page: [QT Funded Deal Page](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/)
 
 ## QT Funded discount code FAQ
 
@@ -128,9 +128,9 @@ Total deals tracked: **64**
 
 This repository mirrors every deal **QT Funded** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/qt-funded/](https://propfirmdiscount.com/prop-firm/qt-funded/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [QT Funded Profile](https://propfirmdiscount.com/prop-firm/qt-funded/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/qt-funded-deals.json`
 
@@ -173,4 +173,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
