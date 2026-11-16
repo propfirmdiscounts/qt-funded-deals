@@ -1,6 +1,6 @@
 # QT Funded Discount Code & Deal History
 
-As of November 2026, the verified QT Funded discount code is PFD — 55% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenges + Free Account with code PFD".
+As of November 2026, the verified QT Funded discount code is PFDDEAL — 55% OFF, which can be applied on the checkout page anytime. The newest is "55% Off Challenges + Free Account with code PFDDEAL".
 
 > At QT Funded, innovation meets opportunity in the trading industry. We empower traders—whether beginners or seasoned professionals—with cutting-edge tools, industry-leading platforms, and a vibrant community dedicated to trading success. Our comprehensive evaluation models are designed to identify and nurture top talent, offering traders the chance to showcase their skills and secure funding.
 > We provide a range of challenges, including 1-step, 2-step, and 3-step evaluations, with funding options from $10,000 to $200,000. Each challenge is tailored to help traders demonstrate their abilities while gaining the confidence needed to navigate the markets effectively.
@@ -8,31 +8,31 @@ As of November 2026, the verified QT Funded discount code is PFD — 55% OFF, wh
 >
 > — QT Funded, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/quanttekel.com)
 
-- Code: PFD
-- Discount: 50% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
+- Code: PFDDEAL
+- Discount: 55% off (what the code takes off the firm's newest deal; it applies to every QT Funded deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-11-10
-- Trustpilot: [3.5/5 (13394 reviews)](https://www.trustpilot.com/review/quanttekel.com)
+- Last deal published: 2026-11-16
+- Trustpilot: [3.5/5 (13395 reviews)](https://www.trustpilot.com/review/quanttekel.com)
 - GitHub repository: [QT Funded Deals Repository](https://github.com/propfirmdiscounts/qt-funded-deals)
 - Activate: [Activate QT Funded Discount Code](https://propfirmdiscount.com/go/qtfunded)
 - Firm page: [QT Funded Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/qt-funded/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [QT Funded API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Latest QT Funded deal: 55% Off Challenges + Free Account with code PFD
+## Latest QT Funded deal: 55% Off Challenges + Free Account with code PFDDEAL
 
 - Published: 2026-11-10
 - Offer ends: Limited time
 - Offer: 55% off
 - Scope: All Challenges
-- Code: PFD
+- Code: PFDDEAL
 - Deal page: [QT Funded Deal Page](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/)
 
 ## QT Funded Discount Code & Deals FAQ
 
 **What is the QT Funded discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 50% off QT Funded challenges and accounts.
+PFDDEAL. It is verified by PropFirmDiscount.com and takes 55% off QT Funded challenges and accounts.
 
 **Does the QT Funded discount code expire?**
 
@@ -40,7 +40,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current QT Funded deal?**
 
-**55% Off Challenges + Free Account with code PFD** — published 2026-11-10. Offer ends: Limited time. The offer is 55% off.
+**55% Off Challenges + Free Account with code PFDDEAL** — published 2026-11-10. Offer ends: Limited time. The offer is 55% off.
 
 ---
 
@@ -52,75 +52,75 @@ Total deals tracked: **64**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-10 | QT Funded: 55% Off Challenges + Free Account with code PFD | 55% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/) |
-| 2026-11-07 | QT Funded: 60% Off + Free Same-Size Account with code PFD | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) |
-| 2026-11-06 | QT Funded: Diwali 60% Off + Free Account + Payout Extra with code PFD | 60% off | 2026-11-09 (ended) | Diwali | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) |
-| 2026-11-04 | QT Funded: 60% Off All Accounts - Free Same-Size Account with code PFD | 60% off | 2026-11-08 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/) |
-| 2026-10-26 | QT Funded: 50% Off Halloween Entry With Second Account Free with code PFD | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) |
-| 2026-10-26 | QT Funded: 60% Off Halloween Challenge Entry With Payout Boost with code PFD | 60% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) |
-| 2026-10-21 | QT Funded: 55% Off All Accounts With Second Account Free with code PFD | 55% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) |
-| 2026-10-20 | QT Funded: 65% Off All Accounts With Fee Refund Offer with code PFD | 65% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) |
-| 2026-10-19 | QT Funded: 60% Off QT TWO Evaluations With Free Account with code PFD | 60% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/) |
-| 2026-10-01 | QT Funded: October Sale: 60% Off Upfront Entry Costs and Second Evaluation Included with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) |
-| 2026-09-09 | QT Funded: 60% Off Challenge Pricing and Second Evaluation Entitlement with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-2/) |
-| 2026-09-07 | QT Funded: 55% Off Evaluation Price With Additional Account at No Extra Cost with code PFD | 55% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/) |
-| 2026-09-02 | QT Funded: 50% Off and Bonus Account on $5K to $100K Evaluation Accounts with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-free-account-2/) |
-| 2026-08-11 | QT Funded: 60% Off Upfront Fees and Bonus Evaluation Account with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-promotion/) |
-| 2026-08-04 | QT Funded: 55% Off Direct Funding Pricing and Free Half-Size Account with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-instant-half-size-account/) |
-| 2026-07-29 | QT Funded: 60% Off Evaluations and Additional Half-Size Account with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account/) |
-| 2026-07-23 | QT Funded: 60% Off Upfront Cost & Bonus 50% Sized Evaluation with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-deal/) |
-| 2026-07-22 | QT Funded: 60% Off Trading Challenges & Bonus Evaluation Account with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-account/) |
-| 2026-06-01 | QT Funded: 55% Off Evaluation Cost Plus Bonus Account with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-discount-free-account/) |
-| 2026-05-27 | QT Funded: Eid Mubarak Deal: 55% Off Upfront Fee Plus Bonus Evaluation with code PFD | 55% off | Ended | Eid al-Adha | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-eid-mubarak-55-off-free-account/) |
-| 2026-05-19 | QT Funded: 55% Off Evaluation Pricing and Additional Half-Sized Account with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-half-sized-account/) |
-| 2026-04-22 | QT Funded: 50% Off Evaluation Pricing and Additional Account Promotion with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-free-account/) |
-| 2026-04-17 | QT Funded: 50% Off 1-Step Challenge Fee For First 2000 Orders with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-off-1-step-evaluations/) |
-| 2026-04-08 | QT Funded: 40% Off Challenge Pricing Offer with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-40-percent-off-promotion/) |
-| 2026-04-02 | QT Funded: 45% Off Evaluation Cost, 100% Refund and Bonus Account with code PFD | 45% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-off-refund-instant-account/) |
-| 2026-03-30 | QT Funded: 50% Reduction and Additional Account at No Extra Cost with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-bogo-deal/) |
-| 2026-02-28 | QT Funded: 50% Off Evaluation Entry Fee plus Free Second Account with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-off-buy-1-get-1-free-march-madness/) |
-| 2026-02-18 | QT Funded: QT Funded Ramadan Offer: 40% Off & BOGO Evaluation with code PFD | 40% off | Ended | Ramadan | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-ramadan-promotion-40-off-bogo/) |
-| 2026-02-16 | QT Funded: 45% Price Cut + Free Second Account Included with code PFD | 45% off | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-presidents-day-45-off-bogo/) |
-| 2026-02-12 | QT Funded: QT Funded Valentine's Deal: 45% Off + Bonus Account with code PFD | 45% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-valentines-day-promotion/) |
-| 2026-02-08 | QT Funded: 45% Price Drop + Bonus Instant Account Included with code PFD | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-percent-off-free-instant-account/) |
-| 2026-02-06 | QT Funded: 45% Off Challenge Pricing Plus Conditional Bonus Account with code PFD | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-percent-off-flash-sale/) |
-| 2026-02-05 | QT Funded: 40% Discount on QT Funded Entry Fees with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-40-percent-off-conditional-free-account/) |
-| 2026-02-02 | QT Funded: 40% Price Reduction and Bonus Account Offer with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-40-percent-off-free-instant-account/) |
-| 2026-01-29 | QT Funded: 60% Off Instant and Power Evaluation Costs Ends Jan 31 with code PFD | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-instant-power-evaluations/) |
-| 2026-01-22 | QT Funded: 40% Discount on Entry Fee with Free Instant Account Entitlement with code PFD | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-promotion-40-percent-off-free-instant-account/) |
-| 2026-01-08 | QT Funded: 15% OFF QT Ultra Evaluation Accounts with code PFD | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-15-off-qt-ultra/) |
-| 2026-01-06 | QT Funded: 15% OFF QT Ultra Challenge Pricing with code PFD | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-15-off-qt-ultra-challenge-pricing/) |
-| 2026-01-06 | QT Funded: New Year Offer: Free Matching Instant Account on All Models with code PFD | Free Account | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/) |
-| 2026-01-05 | QT Funded: Limited Offer: 50% OFF All Evaluations + Entry From $13 with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-promotion/) |
-| 2026-01-05 | QT Funded: Launch: 15% Off Entry Fee + 15% Challenge Profit Split with code PFD | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-launch-15-off-entry-fee-15-challenge-profit-split/) |
+| 2026-11-10 | QT Funded: 55% Off Challenges + Free Account with code PFDDEAL | 55% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-challenges-free-account/) |
+| 2026-11-07 | QT Funded: 60% Off + Free Same-Size Account with code PFDDEAL | 60% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-same-size-account/) |
+| 2026-11-06 | QT Funded: Diwali 60% Off + Free Account + Payout Extra with code PFDDEAL | 60% off | 2026-11-09 (ended) | Diwali | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-60-off-free-account/) |
+| 2026-11-04 | QT Funded: 60% Off All Accounts - Free Same-Size Account with code PFDDEAL | 60% off | 2026-11-08 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-all-accounts-free-account/) |
+| 2026-10-26 | QT Funded: 50% Off Halloween Entry With Second Account Free with code PFDDEAL | 50% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-free-account/) |
+| 2026-10-26 | QT Funded: 60% Off Halloween Challenge Entry With Payout Boost with code PFDDEAL | 60% off | 2026-11-01 00:00 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-60-off-payout-boost/) |
+| 2026-10-21 | QT Funded: 55% Off All Accounts With Second Account Free with code PFDDEAL | 55% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-all-accounts-free-account/) |
+| 2026-10-20 | QT Funded: 65% Off All Accounts With Fee Refund Offer with code PFDDEAL | 65% off | 2026-10-25 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-65-off-all-accounts-fee-refund/) |
+| 2026-10-19 | QT Funded: 60% Off QT TWO Evaluations With Free Account with code PFDDEAL | 60% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-qt-two-evaluations-free-account/) |
+| 2026-10-01 | QT Funded: October Sale: 60% Off Upfront Entry Costs and Second Evaluation Included with code PFDDEAL | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-october-promotion-60-off/) |
+| 2026-09-09 | QT Funded: 60% Off Challenge Pricing and Second Evaluation Entitlement with code PFDDEAL | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-2/) |
+| 2026-09-07 | QT Funded: 55% Off Evaluation Price With Additional Account at No Extra Cost with code PFDDEAL | 55% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-labor-day-55-percent-discount/) |
+| 2026-09-02 | QT Funded: 50% Off and Bonus Account on $5K to $100K Evaluation Accounts with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-free-account-2/) |
+| 2026-08-11 | QT Funded: 60% Off Upfront Fees and Bonus Evaluation Account with code PFDDEAL | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-promotion/) |
+| 2026-08-04 | QT Funded: 55% Off Direct Funding Pricing and Free Half-Size Account with code PFDDEAL | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-instant-half-size-account/) |
+| 2026-07-29 | QT Funded: 60% Off Evaluations and Additional Half-Size Account with code PFDDEAL | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account/) |
+| 2026-07-23 | QT Funded: 60% Off Upfront Cost & Bonus 50% Sized Evaluation with code PFDDEAL | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-bonus-account-deal/) |
+| 2026-07-22 | QT Funded: 60% Off Trading Challenges & Bonus Evaluation Account with code PFDDEAL | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-free-account/) |
+| 2026-06-01 | QT Funded: 55% Off Evaluation Cost Plus Bonus Account with code PFDDEAL | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-discount-free-account/) |
+| 2026-05-27 | QT Funded: Eid Mubarak Deal: 55% Off Upfront Fee Plus Bonus Evaluation with code PFDDEAL | 55% off | Ended | Eid al-Adha | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-eid-mubarak-55-off-free-account/) |
+| 2026-05-19 | QT Funded: 55% Off Evaluation Pricing and Additional Half-Sized Account with code PFDDEAL | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-55-off-half-sized-account/) |
+| 2026-04-22 | QT Funded: 50% Off Evaluation Pricing and Additional Account Promotion with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-free-account/) |
+| 2026-04-17 | QT Funded: 50% Off 1-Step Challenge Fee For First 2000 Orders with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-off-1-step-evaluations/) |
+| 2026-04-08 | QT Funded: 40% Off Challenge Pricing Offer with code PFDDEAL | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-40-percent-off-promotion/) |
+| 2026-04-02 | QT Funded: 45% Off Evaluation Cost, 100% Refund and Bonus Account with code PFDDEAL | 45% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-off-refund-instant-account/) |
+| 2026-03-30 | QT Funded: 50% Reduction and Additional Account at No Extra Cost with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-bogo-deal/) |
+| 2026-02-28 | QT Funded: 50% Off Evaluation Entry Fee plus Free Second Account with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-off-buy-1-get-1-free-march-madness/) |
+| 2026-02-18 | QT Funded: QT Funded Ramadan Offer: 40% Off & BOGO Evaluation with code PFDDEAL | 40% off | Ended | Ramadan | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-ramadan-promotion-40-off-bogo/) |
+| 2026-02-16 | QT Funded: 45% Price Cut + Free Second Account Included with code PFDDEAL | 45% off | Ended | Presidents Day | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-presidents-day-45-off-bogo/) |
+| 2026-02-12 | QT Funded: QT Funded Valentine's Deal: 45% Off + Bonus Account with code PFDDEAL | 45% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-valentines-day-promotion/) |
+| 2026-02-08 | QT Funded: 45% Price Drop + Bonus Instant Account Included with code PFDDEAL | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-percent-off-free-instant-account/) |
+| 2026-02-06 | QT Funded: 45% Off Challenge Pricing Plus Conditional Bonus Account with code PFDDEAL | 45% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-45-percent-off-flash-sale/) |
+| 2026-02-05 | QT Funded: 40% Discount on QT Funded Entry Fees with code PFDDEAL | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-40-percent-off-conditional-free-account/) |
+| 2026-02-02 | QT Funded: 40% Price Reduction and Bonus Account Offer with code PFDDEAL | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-40-percent-off-free-instant-account/) |
+| 2026-01-29 | QT Funded: 60% Off Instant and Power Evaluation Costs Ends Jan 31 with code PFDDEAL | 60% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-60-off-instant-power-evaluations/) |
+| 2026-01-22 | QT Funded: 40% Discount on Entry Fee with Free Instant Account Entitlement with code PFDDEAL | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-promotion-40-percent-off-free-instant-account/) |
+| 2026-01-08 | QT Funded: 15% OFF QT Ultra Evaluation Accounts with code PFDDEAL | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-15-off-qt-ultra/) |
+| 2026-01-06 | QT Funded: 15% OFF QT Ultra Challenge Pricing with code PFDDEAL | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-15-off-qt-ultra-challenge-pricing/) |
+| 2026-01-06 | QT Funded: New Year Offer: Free Matching Instant Account on All Models with code PFDDEAL | Free Account | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-instant-bogo/) |
+| 2026-01-05 | QT Funded: Limited Offer: 50% OFF All Evaluations + Entry From $13 with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-percent-off-promotion/) |
+| 2026-01-05 | QT Funded: Launch: 15% Off Entry Fee + 15% Challenge Profit Split with code PFDDEAL | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-launch-15-off-entry-fee-15-challenge-profit-split/) |
 
 ### 2025 (23 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-31 | QT Funded: New Year Offer: 50% Off All Evaluations + BOGO with code PFD | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-50-off-bogo/) |
-| 2025-12-27 | QT Funded: Christmas and New Year Offer: 50% Off + Free Half-Size Account with code PFD | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-new-year-offer-50-off/) |
-| 2025-12-25 | QT Funded: Christmas Offer: 50% OFF All Evaluations + BOGO with code PFD | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/) |
-| 2025-12-23 | QT Funded: Christmas Deal: 50% Off All Accounts + Free Account on Pass with code PFD | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-deal-50-off/) |
-| 2025-12-09 | QT Funded: Cyber Monday Deal: 55% OFF + Free Account with code PFD | 55% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account-2/) |
-| 2025-12-09 | QT Funded: Christmas Offer: 50% Off + Free Instant Account (BOGO) with code PFD | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-free-instant-account/) |
-| 2025-12-06 | QT Funded: Acquisition Offer: 55% OFF + Free Account with code PFD | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-acquisition-offer-55-off-free-account/) |
-| 2025-12-01 | QT Funded: Cyber Monday Deal: 55% OFF + Free Account with code PFD | 55% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account/) |
-| 2025-11-30 | QT Funded: BFCM Deal: 60% OFF Any Evaluation + Giveaway with code PFD | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-bfcm-60-off-giveaway/) |
-| 2025-11-28 | QT Funded: Black Friday Last Chance: 55% OFF + Free Account with code PFD | 55% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-55-off-free-account/) |
-| 2025-11-24 | QT Funded: 10M Payout Celebration: 50% OFF Power & Instant + 45% OFF Prime with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-10m-payout-celebration-50-off/) |
-| 2025-11-19 | QT Funded: 50% Off + Free Account Black Friday Deal with code PFD | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-50-off-bogo/) |
-| 2025-11-17 | QT Funded: Black Friday Coupon: Free Half-Size Instant Account on Payout with code PFD | Get a FREE Account | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-free-instant-account-payout/) |
-| 2025-11-17 | QT Funded: Buy Evaluation → Get a Free QT Instant (50% Size) After Payout with code PFD | Get a FREE Account | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-buy-evaluation-free-instant-half-size-after-payout/) |
-| 2025-11-10 | QT Funded: Black Friday — 60% OFF $1.25K QT INSTANT & $5K QT POWER (Ends Fri 23:59 UTC) with code PFD | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-1-25k-qt-instant-5k-qt-power-ends-fri-2359-utc/) |
-| 2025-11-10 | QT Funded: Black Friday — 50% OFF $100K QT INSTANT (No Evaluation, Ends Fri 23:59 UTC) with code PFD | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-50-off-100k-qt-instant-no-evaluation-ends-fri-2359-utc/) |
-| 2025-10-24 | QT Funded: Halloween: 50% OFF + Equal Instant Account on Payout, 100% Split with code PFD | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-equal-instant-account-on-payout-100-split/) |
-| 2025-10-24 | QT Funded: Halloween: 50% OFF + 120% Refund on Payout, Free Account Bonus, 100% Split with code PFD | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-120-refund-on-payout-free-account-bonus-100-split/) |
-| 2025-10-20 | QT Funded: Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 with code PFD | 30% off | Ended | Diwali | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-futures-diwali-30-off-bogo-payout-instant-1-step-ends-oct-22/) |
-| 2025-10-19 | QT Funded: Diwali: 50% OFF Evaluations + Free Instant on Payout, 100% Profit Split & 100% Refund with code PFD | 50% off | Ended | Diwali | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-50-off-evaluations-free-instant-on-payout-100-profit-split-100-refund/) |
-| 2025-10-10 | QT Funded: 50% OFF + Free Account with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-off-free-account/) |
-| 2025-09-20 | QT Funded: 50% OFF All Evaluations + Free Account on Pass with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qtfunded-50-off-all-evaluations-free-account-on-pass-limited-time/) |
-| 2025-08-28 | QT Funded: Coupon -50% for QT Funded with code PFD | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/get-50-off-qt-funded-challenge-exclusive-prop-firm-discount/) |
+| 2025-12-31 | QT Funded: New Year Offer: 50% Off All Evaluations + BOGO with code PFDDEAL | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-new-year-50-off-bogo/) |
+| 2025-12-27 | QT Funded: Christmas and New Year Offer: 50% Off + Free Half-Size Account with code PFDDEAL | 50% off | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-new-year-offer-50-off/) |
+| 2025-12-25 | QT Funded: Christmas Offer: 50% OFF All Evaluations + BOGO with code PFDDEAL | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-bogo/) |
+| 2025-12-23 | QT Funded: Christmas Deal: 50% Off All Accounts + Free Account on Pass with code PFDDEAL | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-deal-50-off/) |
+| 2025-12-09 | QT Funded: Cyber Monday Deal: 55% OFF + Free Account with code PFDDEAL | 55% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account-2/) |
+| 2025-12-09 | QT Funded: Christmas Offer: 50% Off + Free Instant Account (BOGO) with code PFDDEAL | 50% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-christmas-50-off-free-instant-account/) |
+| 2025-12-06 | QT Funded: Acquisition Offer: 55% OFF + Free Account with code PFDDEAL | 55% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-acquisition-offer-55-off-free-account/) |
+| 2025-12-01 | QT Funded: Cyber Monday Deal: 55% OFF + Free Account with code PFDDEAL | 55% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-cyber-monday-55-off-free-account/) |
+| 2025-11-30 | QT Funded: BFCM Deal: 60% OFF Any Evaluation + Giveaway with code PFDDEAL | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-bfcm-60-off-giveaway/) |
+| 2025-11-28 | QT Funded: Black Friday Last Chance: 55% OFF + Free Account with code PFDDEAL | 55% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-55-off-free-account/) |
+| 2025-11-24 | QT Funded: 10M Payout Celebration: 50% OFF Power & Instant + 45% OFF Prime with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-10m-payout-celebration-50-off/) |
+| 2025-11-19 | QT Funded: 50% Off + Free Account Black Friday Deal with code PFDDEAL | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-50-off-bogo/) |
+| 2025-11-17 | QT Funded: Black Friday Coupon: Free Half-Size Instant Account on Payout with code PFDDEAL | Get a FREE Account | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-free-instant-account-payout/) |
+| 2025-11-17 | QT Funded: Buy Evaluation → Get a Free QT Instant (50% Size) After Payout with code PFDDEAL | Get a FREE Account | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-buy-evaluation-free-instant-half-size-after-payout/) |
+| 2025-11-10 | QT Funded: Black Friday — 60% OFF $1.25K QT INSTANT & $5K QT POWER (Ends Fri 23:59 UTC) with code PFDDEAL | 60% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-1-25k-qt-instant-5k-qt-power-ends-fri-2359-utc/) |
+| 2025-11-10 | QT Funded: Black Friday — 50% OFF $100K QT INSTANT (No Evaluation, Ends Fri 23:59 UTC) with code PFDDEAL | 50% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-50-off-100k-qt-instant-no-evaluation-ends-fri-2359-utc/) |
+| 2025-10-24 | QT Funded: Halloween: 50% OFF + Equal Instant Account on Payout, 100% Split with code PFDDEAL | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-equal-instant-account-on-payout-100-split/) |
+| 2025-10-24 | QT Funded: Halloween: 50% OFF + 120% Refund on Payout, Free Account Bonus, 100% Split with code PFDDEAL | 50% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-halloween-50-off-120-refund-on-payout-free-account-bonus-100-split/) |
+| 2025-10-20 | QT Funded: Funded Futures Diwali Offer — 30% OFF + BOGO on Payout (Instant & 1-Step) — Ends Oct 22 with code PFDDEAL | 30% off | Ended | Diwali | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-futures-diwali-30-off-bogo-payout-instant-1-step-ends-oct-22/) |
+| 2025-10-19 | QT Funded: Diwali: 50% OFF Evaluations + Free Instant on Payout, 100% Profit Split & 100% Refund with code PFDDEAL | 50% off | Ended | Diwali | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-diwali-50-off-evaluations-free-instant-on-payout-100-profit-split-100-refund/) |
+| 2025-10-10 | QT Funded: 50% OFF + Free Account with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qt-funded-50-off-free-account/) |
+| 2025-09-20 | QT Funded: 50% OFF All Evaluations + Free Account on Pass with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/qtfunded-50-off-all-evaluations-free-account-on-pass-limited-time/) |
+| 2025-08-28 | QT Funded: Coupon -50% for QT Funded with code PFDDEAL | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/qt-funded/get-50-off-qt-funded-challenge-exclusive-prop-firm-discount/) |
 
 ---
 
