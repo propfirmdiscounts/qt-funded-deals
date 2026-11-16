@@ -22,7 +22,7 @@ env:
   FIRM_NAME: QT Funded
   STANDING_CODE: PFD
   DISCOUNT: 55%
-  IS_GLOBAL: true
+  IS_GLOBAL: false
 
 jobs:
   sync:
