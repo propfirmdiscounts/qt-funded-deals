@@ -22,7 +22,7 @@ env:
   FIRM_NAME: QT Funded
   STANDING_CODE: PFD
   DISCOUNT: 55%
-  IS_GLOBAL: false
+  IS_GLOBAL: 0
 
 jobs:
   sync:
@@ -65,7 +65,7 @@ jobs:
 
           slug = os.environ['FIRM_SLUG']
           firm_name = os.environ['FIRM_NAME']
-          is_global = os.environ['IS_GLOBAL'] == 'true'
+          is_global = os.environ.get('IS_GLOBAL', '0') in ['1', 'true', 'True']
           code = os.environ['STANDING_CODE']
           discount = add_off(os.environ['DISCOUNT'])
 
@@ -91,6 +91,10 @@ jobs:
 
           if record.get('discount'):
               discount = add_off(record['discount'])
+          if 'use_global_affiliate_code' in record:
+              is_global = str(record['use_global_affiliate_code']) in ['1', 'true', 'True']
+          elif 'is_global' in record:
+              is_global = str(record['is_global']) in ['1', 'true', 'True']
           # add_off() appends " off" for display. The FAQ sentences below already
           # end in "off", so they take the bare rate instead of "50% off off".
           discount_pct = discount[:-4] if discount.endswith(' off') else discount
