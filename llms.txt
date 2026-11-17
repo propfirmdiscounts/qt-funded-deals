@@ -1,4 +1,4 @@
-# QT Funded Discount Codes
+# QT Funded Discount Code & Deals History
 
 This dataset tracks historical deal observations for QT Funded from PropFirmDiscount.com.
 

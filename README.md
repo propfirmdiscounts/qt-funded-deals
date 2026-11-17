@@ -1,4 +1,4 @@
-# QT Funded Discount Code & Deal History
+# QT Funded Discount Code, Deals History & Dataset
 
 As of November 2026, the verified QT Funded discount code is PFDDEAL — 50% OFF, which can be applied on the checkout page anytime. The newest is "60% Off Plus a Free Same-Size Account".
 
@@ -13,7 +13,7 @@ As of November 2026, the verified QT Funded discount code is PFDDEAL — 50% OFF
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
 - Trustpilot: [3.5/5 (13395 reviews)](https://www.trustpilot.com/review/quanttekel.com)
-- GitHub repository: [QT Funded Deals Repository](https://github.com/propfirmdiscounts/qt-funded-deals)
+- GitHub repository: [QT Funded Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/qt-funded-deals)
 - Activate: [Activate QT Funded Discount Code](https://propfirmdiscount.com/go/qtfunded)
 - Firm page: [QT Funded Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/qt-funded/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -29,7 +29,7 @@ As of November 2026, the verified QT Funded discount code is PFDDEAL — 50% OFF
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [QT Funded Deal Page](https://propfirmdiscount.com/deals/qt-funded/qt-funded-black-friday-60-off-free-account/)
 
-## QT Funded Discount Code & Deals FAQ
+## QT Funded Discount Code & Deals History FAQ
 
 **What is the QT Funded discount code?**
 
@@ -45,7 +45,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## QT Funded Deal History
+## QT Funded Deals History
 
 Total deals tracked: **66**
 
@@ -127,7 +127,7 @@ Total deals tracked: **66**
 
 ---
 
-## About the QT Funded Deals Dataset
+## About the QT Funded Discount Code & Deals History Dataset
 
 This repository mirrors every deal **QT Funded** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -135,7 +135,7 @@ This repository mirrors every deal **QT Funded** has published on PropFirmDiscou
 - Prop firm profile: [QT Funded Profile](https://propfirmdiscount.com/prop-firm/qt-funded/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## QT Funded Deal Dataset: Field Definitions
+## QT Funded Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
