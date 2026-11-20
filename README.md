@@ -12,7 +12,7 @@ As of November 2026, the verified QT Funded discount code is PFDDEAL — 50% OFF
 - Discount: 50% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
-- Trustpilot: [3.5/5 (13395 reviews)](https://www.trustpilot.com/review/quanttekel.com)
+- Trustpilot: [3.5/5 (13401 reviews)](https://www.trustpilot.com/review/quanttekel.com)
 - GitHub repository: [QT Funded Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/qt-funded-deals)
 - Activate: [Activate QT Funded Discount Code](https://propfirmdiscount.com/go/qtfunded)
 - Firm page: [QT Funded Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/qt-funded/)
